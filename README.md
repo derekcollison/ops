@@ -95,7 +95,7 @@ Applications:
 * Hiawatha
 * Mosquitto
 * Kache
-* Gnatsd
+* NATS
 * [Wasmer](https://github.com/nanovms/ops-examples/tree/master/wasm/01-hello-world)
 
 You can always find more pre-made packages via:
